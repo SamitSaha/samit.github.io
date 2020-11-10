@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: cursive;
+    color: black;
+}
+
+.back{
+    width: 100%;
+    height: 100vh;
+    background-image: url(backgroudn-01.png);
+    position: fixed;
+    background-size: cover;
+    z-index: -100;
+}
+.area{
+    font-size: 135px;
+    font-weight: bold;
+}
+.one{
+    font-size: 300px;
+    padding-right: 25%;
+    text-align: center;
+}
+.name{
+    font-size: 280px;
+    padding-right: 25%;
+    text-align: center;
+}
+.det{
+    font-size: 160px;
+    letter-spacing: 20px;
+    margin-bottom: 150px;
+    padding: 10%;
+}
+.imgarea{
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-bottom: 200px;
+}
+.img{
+    width: 40%;
+    margin-top: 80px;
+}
+img{
+    width: 80%;
+}
+.right{
+    margin-left: 50%;
+}
+.gift{
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-bottom: 200px;
+    image-orientation: center;
+}
